@@ -1,4 +1,4 @@
-# SOV guide
+# SOV Startup Guide
 
 ### Starting setup
 * You start by producing a ton of civs and a couple infra on key states (Azerbaijain, mainly).

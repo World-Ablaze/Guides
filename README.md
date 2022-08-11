@@ -1,5 +1,5 @@
 # Guides
-This repository contains guides created for the World Ablaze mod for Hearts of Iron IV. Details and summaries of the guides can be found below.
+This repository contains guides created for the World Ablaze mod for Hearts of Iron IV. Details and summaries of the guides can be found below. If you want to quickly read a guide, click on the .md files above. If you want a downloadable version, go into the PDFs folder and download the .pdf version.
 
 # World Ablaze General Game Guide
 This guide is for detailing the general mechanics of the game and which DLC are required/used/ignored for the mod to function properly. A quick overview of all majors is offered while also explaining the changes to core game mechanics such as economy, industry, technology, politics, and combat. Start here if you are new to the mod.
