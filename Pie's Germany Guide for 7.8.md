@@ -1,4 +1,4 @@
-﻿<a name="br1"></a># Germany build v2
+﻿# Germany build v2
 
 # General Focus Order
 
@@ -32,13 +32,13 @@ Daimler
 
 
 
-<a name="br2"></a>Richthofen Messerschmitt Goring as air advisor Walter von Reichenau
+Richthofen Messerschmitt Goring as air advisor Walter von Reichenau
 
 Von Rundstedt Franz Halder Kurt Zeitzler
 
 Paul Edwald von Klest
 
-` `Georg von Kuchler as artillery high command (need to be promoted)
+Georg von Kuchler as artillery high command (need to be promoted)
 Model as panzer high command (need to be promoted from spain)
 Iron excavation decisions once you get excavation iii
 
@@ -78,8 +78,7 @@ A SUPPLY HUB/PORT INSTEAD
 ONLY BUY AS MUCH IRON AS YOU NEED STEEL TO SAVE CIVS
 
 
-
-<a name="br3"></a>IT GOES WITHOUT SAYING BUILD IN HIGHEST INFRA STATES
+**IT GOES WITHOUT SAYING BUILD IN HIGHEST INFRA STATES**
 
 1936 Starting Industry:
 
@@ -116,7 +115,7 @@ Any mils you build put on the following when you get them
 
 
 
-<a name="br4"></a>1941 Barb Target: ~440 mils 25 Light Infantry Equipment 25 Heavy Infantry Equipment 18 Support 18 Artillery
+1941 Barb Target: ~440 mils 25 Light Infantry Equipment 25 Heavy Infantry Equipment 18 Support 18 Artillery
 
 3 Hv Artillery 15 AT
 
@@ -151,12 +150,12 @@ more expensive
 
 
 
-<a name="br5"></a>Templates
+# Templates
 
 
 
 
-<a name="br6"></a>Danzig Target
+**Danzig Target**
 
 6 tank divisions (its okay if they aren’t fully mediums yet)
 84 infantry
@@ -196,13 +195,13 @@ spain), panzer expert, combined arms expert
 
 
 
-<a name="br7"></a>The panzer generals should ALL have these traits
+**The panzer generals should ALL have these traits**
 
 Paratroopers,
 
 Only one option, take kurt student, he is the only one with +10% paratrooper attack and defense
 
-Luftwaffe
+# Luftwaffe
 
 TRAIN ALL THE OLD BIPLANE FIGHTERS PERMANENTLY FOR XP
 You want to RUSH the 109F4 btw, then swap to fw190s after if you don’t think you will kill the
@@ -215,11 +214,11 @@ And air support adds a massive 30+% attack modifier to your divisions on top of 
 attack. You can expect uncontested german 1941 cas to contribute ~40-50% of the damage in
 a plains battle.
 
-Air doctrines
+# Air doctrines
 
 
 
-<a name="br8"></a>Air spirits
+# Air spirits
 
 Spirit of the Air Force
 
@@ -244,7 +243,7 @@ Barb Target: 7-8k fighters
 
 
 
-<a name="br9"></a>Navy
+# Navy
 
 1\. Ignore for now, do what you want lol it doesnt matter for fighting sov
 
