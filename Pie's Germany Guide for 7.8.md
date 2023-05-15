@@ -1,5 +1,7 @@
 ﻿# Germany build v2
 
+# IF YOU WANT TO SEE THE PICTURES PLEASE DOWNLOAD THE PDF INSTEAD
+
 # General Focus Order
 
 This focus order will last you until the start of war, and is a good starting point, deviations after
